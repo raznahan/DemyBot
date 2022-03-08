@@ -16,7 +16,7 @@ You can start working with [Demybot][Demybot] if you have a [Telegram][Telegram]
 
 ### Bot Preview
 <h2 align='center'>
-<img src='https://github.com/raznahan/DemyBot/blob/main/extras/readme/ezgif.com-gif-maker.gif'/>
+<img src='https://github.com/raznahan/DemyBot/blob/main/extras/readme/Demybot-PreveiwGif.gif'/>
 </h2>
 ## About the **Project**
 
